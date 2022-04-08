@@ -31,9 +31,11 @@ github_username:  t-1-n-o
 
 # Build settings
 #theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
