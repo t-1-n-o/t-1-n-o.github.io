@@ -105,7 +105,7 @@ author:
   name             : "Tino Naumann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love diving."
-  location         : "Hurghada / Egypt"
+  location         : # "Hurghada / Egypt"
   email            : "mail@tino.link"
   links:
     - label: "Email"
@@ -226,7 +226,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
