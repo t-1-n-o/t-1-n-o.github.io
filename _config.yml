@@ -106,14 +106,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love diving."
   location         : "Hurghada / Egypt"
-  email            :
+  email            : "mail@tino.link"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail@tino.link"
+      # url: "mailto:mail@tino.link"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://t-1-n-o.github.io"
+      # url: "https://t-1-n-o.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/t-1-n-o"
+      # url: "https://github.com/t-1-n-o"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/divingtino"
+      # url: "https://instagram.com/divingtino"
 
 # Site Footer
 footer:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/t-1-n-o"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/divingtino"
+      url: "https://instagram.com/diving.tino"
 
 
 # Reading Files
