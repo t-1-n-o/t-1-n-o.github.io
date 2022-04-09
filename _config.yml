@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tino Naumann"
 description              : "An amazing website."
-url                      : "http://tino.link"
+url                      : "https://tino.link"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "t-1-n-o/t-1-n-o.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
