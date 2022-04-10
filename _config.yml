@@ -4,12 +4,14 @@
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 # url:                   https://username.github.io
+url:                   https://tino.link
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 # baseurl:               '/hydejack-starter-kit'
+baseurl:               ''
 
 
 # General settings
@@ -46,6 +48,9 @@ author:
   email:               <mail@tino.link>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+
+github_username: t-1-n-o
+
 
 # Add links to the sidebar.
 menu:
@@ -368,8 +373,8 @@ plugins:
 social:
   name:                Tino Naumannn
   links:
-#     - https://twitter.com/<username>
-    - https://github.com/t-1-n-o
+  - https://github.com/t-1-n-o
+  - https://twitter.com/<username>
 
 
 # Plugin Configs
