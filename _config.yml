@@ -122,7 +122,9 @@ defaults:
   - scope:
       path: ""
     values:
-      invert_sidebar: true
+#      invert_sidebar: true
+      accent_color:    rgb(0,0,0)
+
 
   - scope:
       path:            hyde/
