@@ -120,6 +120,11 @@ defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
   - scope:
+      path: ""
+    values:
+      invert_sidebar: true
+
+  - scope:
       path:            hyde/
     values:
       accent_color:    rgb(38,139,210)
