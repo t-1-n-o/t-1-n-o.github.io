@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wllcone
+title: Wellcome
 sitemap: false
 cover: true
 ---
