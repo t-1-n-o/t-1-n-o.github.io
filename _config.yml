@@ -70,8 +70,6 @@ copyright:             © 2022. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
-layout: none
-permalink: .well-known/acme-challenge/SbPRE0gIxQvhnDYG7QgxEXRf2o78clh_5z_8x-H4a2Y
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
