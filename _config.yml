@@ -70,6 +70,8 @@ copyright:             © 2022. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
+layout: none
+permalink: .well-known/s2XVAOPsUrGOKbQGFcliI8geRwCM0IoSXTqwXWav3TY
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
